@@ -37,6 +37,17 @@ This project implements a hybrid log classification system, combining three comp
    - Contains the FastAPI server code (`server.py`).
 
 ![architecture](resources/Tangkapan Layar 2025-03-15 pukul 19.43.06.png)
+---
+
+## Technologies Used
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-00A3E0?style=for-the-badge&logo=spacy&logoColor=white" alt="Sentence Transformers"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/LLMs-FF4500?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+</p>
 
 ---
 
